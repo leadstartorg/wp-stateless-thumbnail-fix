@@ -2,7 +2,7 @@
 Fixes broken WordPress thumbnails when using Google Cloud Storage with WP Stateless plugin. Regenerates thumbnails locally for URLs/streams, cleans temp files, and optionally purges Cloudflare. Handles last 30 days or specific attachments. See: https://scarff.id.au/blog/2020/wordpress-gcs-plugin-broken-thumbnails/
 
 === WP Stateless CLI Image Thumbnail Fix ===
-Contributors: yourname
+Contributors: Jessica Kafor
 Tags: mu-plugin, stateless, GCS, thumbnails, wp-cli
 Requires at least: 5.0
 Tested up to: 6.4
